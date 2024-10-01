@@ -39,6 +39,7 @@ Model Evaluation: Techniques for model accuracy, precision, recall, F1 score, et
 Provide a brief explanation of each topic or module.
 
 Code Structure
+
 Provide an overview of the repository's folder structure and files. Explain the purpose of each major file or directory, especially the ones where the key algorithms and notebooks are stored.
 
 Example:
@@ -56,10 +57,14 @@ If you are using any datasets in your project, include:
 A description of the datasets and their sources.
 Instructions on how to access or download the data if it’s publicly available.
 Details on any preprocessing steps applied before feeding the data into models.
+
+
 Results
+
 Summarize the key results or insights derived from the project. If models were built, discuss their performance metrics (e.g., accuracy, precision, recall). You can also mention the outcomes of any data analysis performed.
 
 Contributing
+
 Include guidelines for those who would like to contribute to the project:
 
 How to report issues or suggest improvements.
@@ -69,5 +74,6 @@ License
 Specify the licensing terms under which the project is shared (e.g., MIT License, Apache License).
 
 Acknowledgments
+
 Mention any contributors, mentors, or resources that helped in the creation of the project. This could include books, articles, libraries, or tutorials that provided valuable guidance.
 
